@@ -1,5 +1,7 @@
 # 💫 About Me:
-Computer Vision and AI Enthusiast with 2 years of experience in developing and optimizing deep <br>learning models, seeking full-time roles in AI, ML, and Computer Vision.
+Computer Vision and AI Enthusiast with 2 years of experience in developing and optimizing deep learning models. Passionate about leveraging cutting-edge techniques in AI, ML, and Computer Vision to solve real-world problems. I have hands-on expertise in building models for human detection, image classification, and disaster response systems.
+I am skilled in working with popular frameworks like PyTorch, TensorFlow, and MindSpore, and proficient in model deployment and performance optimization for real-time applications.
+Check out my GitHub portfolio for a collection of my projects, including model implementations, research papers, and contributions to open-source AI tools. I'm actively working on projects that push the boundaries of AI in fields such as autonomous systems, healthcare, and disaster management.
 
 
 ## 🌐 Socials:
