@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Test Snake Workflow
 
 on:
   push:
@@ -6,26 +6,10 @@ on:
       - main
 
 jobs:
-  generate_snake:
+  test_job:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Generate Snake
-        uses: Platane/snk@v1  # Switch to v1 if v2 is causing issues
-        with:
-          github_user_name: HanzlaSarwar327
-
-      - name: Check if SVG was generated
-        run: ls dist
-
-      - name: Commit & Push Snake Animation
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add dist/github-snake.svg || echo "No changes to commit"
-          git commit -m "Update snake animation" || exit 0
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Print GitHub User Name
+        run: echo "GitHub User Name: ${{ github.actor }}"
