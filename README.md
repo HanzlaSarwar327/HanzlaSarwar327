@@ -77,7 +77,8 @@
   <!-- Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=HanzlaSarwar327&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanzlaSarwar327&theme=nightowl&hide_border=true" width="45%"/>
-🏆 Achievements
+  
+## 🏆 Achievements
 <div align="center">
   <!-- 3D Contributions Graph -->
   <img src="https://raw.githubusercontent.com/HanzlaSarwar327/HanzlaSarwar327/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
