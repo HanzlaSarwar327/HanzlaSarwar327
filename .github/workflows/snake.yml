@@ -1,15 +1,27 @@
-name: Test Snake Workflow
-
+name: Generate Contribution Snake
 on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:     # Allows manual runs
   push:
     branches:
       - main
 
 jobs:
-  test_job:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      - name: Print GitHub User Name
-        run: echo "GitHub User Name: ${{ github.actor }}"
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: HanzlaSarwar327
+          svg_path: github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Commit Snake
+        run: |
+          git config --global user.name "GitHub Actions"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake"
+          git push
