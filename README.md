@@ -74,32 +74,15 @@
 
 ## 📊 Development Insights
 <div align="center">
-  <!-- Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=HanzlaSarwar327&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanzlaSarwar327&theme=nightowl&hide_border=true" width="45%"/>
+</div>
 
----  
-  
+---
+
 ## 🏆 Achievements
 <div align="center">
-  <!-- 3D Contributions Graph -->
-  <img src="https://raw.githubusercontent.com/HanzlaSarwar327/HanzlaSarwar327/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
-
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=HanzlaSarwar327&theme=darkhub&no-frame=true&row=2&column=4" alt="Trophies" />
-
-  <!-- Dynamic Quote -->
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quote=Artificial_intelligence_is_the_new_electricity&author=Andrew_Ng" alt="Quote" width="80%"/>
-
-  <!-- Metrics -->
-  <img src="https://hitsofcode.com/github/HanzlaSarwar327?branch=main" alt="Hit Count">
-  [![wakatime](https://wakatime.com/badge/user/{your-id}.svg)](https://wakatime.com/@HanzlaSarwar327)
   <p>🚀 Let's connect and build the future of AI together!</p>
 </div>
-  <!-- WakaTime Stats -->
-  ```text
-  🕒 Weekly Development Breakdown
-  Python        ████████████████████▌ 85.2% 
-  Jupyter       ████████▉            12.1% 
-  Dockerfile    █▌                   2.7%
- 
