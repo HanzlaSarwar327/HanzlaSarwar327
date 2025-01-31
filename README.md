@@ -86,9 +86,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HanzlaSarwar327&theme=darkhub&no-frame=true&row=2&column=4" alt="Trophies" />
 
 ## 🕒 Weekly Development Breakdown
-  Python        ████████████████████▌ 85.2% 
+
+<div align="center" style="background:#222; padding:10px; border-radius:10px; width:60%; margin:auto;">
+  <pre>
+  🚀 Weekly Development Breakdown 🚀
+  --------------------------------
+  Python        ████████████████████▌ 95.2% 
   Jupyter       ████████▉            12.1% 
   Dockerfile    █▌                   2.7%
-  
-  <p>🚀 Let's connect and build the future of AI together!</p>
+  --------------------------------
+  </pre>
 </div>
+
+<p align="center" style="font-size:18px; font-weight:bold;">🚀 Let's connect and build the future of AI together! 🤖</p>
+
