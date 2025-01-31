@@ -5,7 +5,7 @@
   <!-- Social Links -->
   [![LinkedIn](https://img.shields.io/badge/-Muhammad_Hanzla_Sarwar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/MuhammadHanzlaSarwar)
   [![Email](https://img.shields.io/badge/-sarwarhanzla327@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sarwarhanzla327@gmail.com)
-  [![Resume](https://img.shields.io/badge/-Download_Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/HanzlaSarwar327/HanzlaSarwar327/.github/workflow/My_Resume.pdf)
+  [![Resume](https://img.shields.io/badge/-Download_Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/HanzlaSarwar327/HanzlaSarwar327/.github/workflows/My_Resume.pdf)
 
   <!-- Contribution Graphics -->
    
