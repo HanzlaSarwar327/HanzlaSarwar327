@@ -8,8 +8,8 @@
   [![Resume](https://img.shields.io/badge/-Download_Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/HanzlaSarwar327/HanzlaSarwar327/raw/main/My_Resume.pdf)
 
   <!-- Contribution Graphics -->
-  <img src="https://raw.githubusercontent.com/HanzlaSarwar327/HanzlaSarwar327/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanzlaSarwar327&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+ ![Snake](https://raw.githubusercontent.com/HanzlaSarwar327/HanzlaSarwar327/main/github-contribution-grid-snake.svg)  
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanzlaSarwar327&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
