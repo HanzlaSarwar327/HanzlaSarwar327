@@ -14,11 +14,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Debug inputs
+        run: echo "GitHub User Name: ${{ github.actor }}"
+
       - name: Create dist directory
         run: mkdir -p dist
 
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v1  # Switch to v1 if v2 is causing issues
         with:
           github_user_name: HanzlaSarwar327
           outputs: dist/github-snake.svg
