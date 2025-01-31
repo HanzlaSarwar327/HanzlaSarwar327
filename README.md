@@ -8,7 +8,7 @@
   [![Resume](https://img.shields.io/badge/-Download_Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/HanzlaSarwar327/HanzlaSarwar327/raw/main/My_Resume.pdf)
 
   <!-- Contribution Graphics -->
- ![Snake](https://raw.githubusercontent.com/HanzlaSarwar327/HanzlaSarwar327/main/github-contribution-grid-snake.svg)  
+ ![Bubbles](https://activity-graph.herokuapp.com/graph?username=HanzlaSarwar327&theme=react-dark&area=true&hide_border=true&custom_title=Code+Activity+Bubbles)  
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanzlaSarwar327&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
