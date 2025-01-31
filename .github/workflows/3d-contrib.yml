@@ -1,4 +1,3 @@
-# .github/workflows/3d-contrib.yml
 name: 3D Contributions
 on:
   schedule:
