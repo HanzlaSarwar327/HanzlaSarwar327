@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=22D3EE&width=500&lines=AI+Visionary;Medical+Imaging+Expert;Open-Source+Contributor" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=22D3EE&width=500&lines=I'm+ Muhammad+Hanzla+Sarwar;AI+Visionary;Medical+Imaging+Expert;Open-Source+Contributor" alt="Header" />
 
   <!-- Social Links -->
   [![LinkedIn](https://img.shields.io/badge/-Muhammad_Hanzla_Sarwar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/MuhammadHanzlaSarwar)
@@ -77,6 +77,8 @@
   <!-- Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=HanzlaSarwar327&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanzlaSarwar327&theme=nightowl&hide_border=true" width="45%"/>
+
+---  
   
 ## 🏆 Achievements
 <div align="center">
