@@ -22,11 +22,11 @@ jobs:
       - run: git status
 
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.PAT_TOKEN }}
-          branch: master
-          force: true
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.PAT_TOKEN }}  # or GITHUB_TOKEN if not protected
+        branch: main
+        force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
