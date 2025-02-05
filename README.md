@@ -5,7 +5,7 @@
   <!-- Social Links -->
   [![LinkedIn](https://img.shields.io/badge/-Muhammad_Hanzla_Sarwar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/MuhammadHanzlaSarwar)
   [![Email](https://img.shields.io/badge/-sarwarhanzla327@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sarwarhanzla327@gmail.com)
-  [![Resume](https://img.shields.io/badge/-Download_Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/HanzlaSarwar327/HanzlaSarwar327/Resume.pdf)
+  [![Resume](https://img.shields.io/badge/-Download_Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader)](https://raw.githubusercontent.com/HanzlaSarwar327/HanzlaSarwar327/main/Resume.pdf)
 
   <!-- Contribution Graphics -->
    
@@ -98,5 +98,5 @@
   </pre>
 </div>
 
-<p align="center" style="font-size:18px; font-weight:bold;">🚀 Let's connect and build the future of AI together! 🤖</p>
+<p align="center" style="font-size:24px; font-weight:bold;">🚀 Let's connect and build the future of AI together! 🤖</p>
 
